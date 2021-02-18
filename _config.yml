@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
+title: DOCENT Learning Self-Supervised Entity Representations from Large Document Collections
+description: The website contains additional data and scripts for the EACL-2021 paper DOCENT Learning Self-Supervised Entity Representations from Large Document Collections.
+# google_analytics: [Your Google Analytics tracking ID]
 logo: images/logo.png
