@@ -10,7 +10,7 @@ Please, see [https://goo.gle/research-docent](https://goo.gle/research-docent) f
 
 The [dataset](https://github.com/urikz/docent/raw/gh-pages/docent/reddit/reddit.json) contains a collection of 4765 movie-seeking queries and corresponding recommendations, collectively curated and voted on by the [Reddit Movie Suggestions](https://www.reddit.com/r/MovieSuggestions) community. Worth noting are (a) the conversational, human-to-human language of the queries; (b) the community-recommended movies that, while sparse and possibly biased, can be used as a source of ground truth. While modest in size, the dataset is well-suited to evaluate zero-shot performance on the movie ranking task defined in [Section 3.3](http://storage.googleapis.com/gresearch/docent/docent_eacl2021_final_v3.pdf)).
 
-### Scripts
+## Scripts
 
 ### Closed Vocabulary Tag Prediction
 
