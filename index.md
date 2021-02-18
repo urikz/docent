@@ -16,13 +16,17 @@ The [dataset](https://github.com/urikz/docent/raw/gh-pages/docent/reddit/reddit.
 
 In this scenario, evaluation is done on a holdout set of 1000 movies.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/urikz/docent/blob/gh-pages/docent/tag/closed/MoviesHoldoutEval.ipynb)
+See evaluation script [here](https://github.com/urikz/docent/blob/gh-pages/docent/tag/closed/MoviesHoldoutEval.ipynb) or
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/urikz/docent/blob/gh-pages/docent/tag/closed/MoviesHoldoutEval.ipynb)
 
 ### Open Vocabulary Tag Prediction
 
 This task is evaluated by withholding parts of the tag vocabulary (500 tags) so that those tags are never seen in training.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/urikz/docent/blob/gh-pages/docent/tag/open/TagsHoldoutEval.ipynb)
+See evaluation script [here](https://github.com/urikz/docent/blob/gh-pages/docent/tag/open/TagsHoldoutEval.ipynb) or
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/urikz/docent/blob/gh-pages/docent/tag/open/TagsHoldoutEval.ipynb)
 
 
 <!-- ## Citation
