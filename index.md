@@ -14,29 +14,29 @@ The [dataset](https://github.com/urikz/docent/raw/gh-pages/docent/reddit/reddit.
 
 A sample request is below. 
 ```
-    {
-        "request": {
-            "query_original": "Unreliable Narrator <p>Any suggestions for movies containing unreliable narrators? (Characters version of events is false through mental illness, narcissism, naivety etc) </p>\n",
-            "query_full": "Unreliable Narrator Any suggestions for movies containing unreliable narrators? (Characters version of events is false through mental illness, narcissism, naivety etc)  ",
-            "query_title": "Unreliable Narrator"
-        },
-        "response": {
-            "result": [
-                {
-                    "score": 16.0,
-                    "asin": "B00003CWQ2"
-                },
-                {
-                    "score": 16.0,
-                    "asin": "B000JMK6LW"
-                },
-                {
-                    "score": 16.0,
-                    "asin": "B00003CXZ3"
-                },
-            ]
-        }
+{
+    "request": {
+        "query_original": "Unreliable Narrator <p>Any suggestions for movies containing unreliable narrators? (Characters version of events is false through mental illness, narcissism, naivety etc) </p>\n",
+        "query_full": "Unreliable Narrator Any suggestions for movies containing unreliable narrators? (Characters version of events is false through mental illness, narcissism, naivety etc)  ",
+        "query_title": "Unreliable Narrator"
     },
+    "response": {
+        "result": [
+            {
+                "score": 16.0,
+                "asin": "B00003CWQ2"
+            },
+            {
+                "score": 16.0,
+                "asin": "B000JMK6LW"
+            },
+            {
+                "score": 16.0,
+                "asin": "B00003CXZ3"
+            },
+        ]
+    }
+}
 ```
 
 ``score`` corresponds to how many upvotes the answer has received.
